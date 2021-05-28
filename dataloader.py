@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Dec  9 18:22:17 2020
 
-@author: Kartik
 """
 
 # pip install tensorflow-datasets
